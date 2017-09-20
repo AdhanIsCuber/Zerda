@@ -61,5 +61,5 @@
     <color name="colorScreenshotItemBackground">#EDEDF0</color>
 
     <color name="colorUrlBarLockIcon">#12BC00</color>
-
+    <color name="colorPromotionDialogDivider">#E4E4E4</color>
 </resources>
