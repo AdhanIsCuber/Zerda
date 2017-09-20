@@ -141,4 +141,8 @@
     <style name="ScreenshotViewBottomToolbar" parent="@style/Widget.AppCompat.Toolbar">
         <item name="contentInsetStart">0dp</item>
     </style>
+
+    <style name="PromoteDialogButton" parent="android:Widget.DeviceDefault.Button.Borderless">
+        <item name="android:textSize">14sp</item>
+    </style>
 </resources>
